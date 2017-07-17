@@ -2,4 +2,4 @@
 
 ** This package is for learning about npm packages **
 
-CHANGE IN VERSION : 1.0.1
+CHANGE IN VERSION : 1.0.2
