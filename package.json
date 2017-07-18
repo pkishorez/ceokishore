@@ -11,5 +11,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kishore <kishore.iiitn@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^15.0.38",
+    "@types/react-dom": "^15.5.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "ts-loader": "^2.3.0",
+    "typescript": "^2.4.1",
+    "webpack": "^3.3.0",
+    "webpack-dev-server": "^2.5.1"
+  }
 }
